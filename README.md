@@ -57,4 +57,15 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-For the full license text see [`LICENSE`](LICENSE).
+For the full license text see the [`LICENSE`](LICENSE).
+
+## Code of Conduct
+
+Summary of Key Principles
+
+- Be respectful to others in the community at all times.
+- Report harassing or abusive behavior that you experience or witness at <ReportAbuse@cyberark.com>
+- The CyberArk community will not tolerate abusive or disrespectful behavior towards its members; anyone engaging in such behavior will be suspended from the CyberArk community.
+
+For the full document see the [Code of Conduct](CODE_OF_CONDUCT.md).
+
